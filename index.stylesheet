@@ -1,0 +1,160 @@
+header {
+height: 44px;
+width: 100%;
+background-color: rgba(34,49,52,0.9);
+position: fixed;
+top: 0;
+z-index: 10;
+}
+.header-left {
+  float: right;
+  background-color: rgba(255,255,255,0.3)
+}
+.header-right {
+  float: right;
+}
+.tamatetu-white{
+  height:40px;
+  width: 120px;
+  float: left;
+  padding: 2px 0 0 2px;
+}
+.btn-login {
+  color:white;
+  padding: 10px 25px;
+  opacity: 0.8;
+  display: inline-block;
+  border-radius: 4px;
+  padding-left: 20px;
+}
+.btn-login:hover {
+  opacity: 1;
+}
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  text-align: center;
+  background-image: url(https://lh3.googleusercontent.com/UiFMYKaCgIyZfhJ03GUNiAaOqUxLPyxvxuP7Hzr_6SwQW9IvyB2BJbqgzlaJhs9APdyhbs8gR7eSHsgzooLaPalhnAZ5dzPjnzUcQ9rcuG0aWiuSHOWsbocd85GvlPQdv6WMNG9JKktvgsh4akPgVRNF-8jb0BhrmNuN7gaZXWSuR6ar03TNrq7deihccWds3FP57cIMTFdujOYYiZUeLYJfvPuWJT1VlACycoC5TDAuSGTHwDtv7x3b00ThGNWOBRXNJp5X0NZg5HKPZOtQ7JfQCO34vOsaXB8JMSab_v6-vYNE1yKNPMH98rWv08eqoCOz0Cz3XZrKAGoYDMDnhcsPj9baQeY5WiDYxzcrFVpVrG48ooDN9QcXza-9dKnmQherpgCBe-ePjIksfWxlzNddJLh5-06fC1CXc8FQ56w_ITAEREBHAGMKgqfBpSWMoQPcSB1kC782xffcs99JOrLyCqJnaRMmaANzfFSs4Zcboigf3c4Icq-2c8t9FVbHjamABNzkKTRaXcBOc1ONfFsM41U7KKY-KvrhYUkxRDPNLxq6G1XdS3TghY4a8p4Pf8GBoh-8m4g_zhogwPhYeKQMHb1wcQQmcKX0B_NKrDMIBd3i5VrtYdmR7hV6qz0johX8gs2Y0iBNclQFVAwjdeLkuugH6E8TrYmN4zkwPEYzZLYukQS1pZfqGvBkZuc=w1425-h950-no);
+  background-size: cover;
+  color: black;
+  height: 700px;
+}
+.container {
+  width:1170px;
+  margin:0 auto;
+  padding-top: 70px;
+}
+.container h1 {
+font-size: 100px;
+font-weigt:hold;
+letter-spacing: 12px;
+opacity: 0.8;
+}
+ .container br {
+margin-bottom: 50px;
+opacity: 0.8;
+
+}
+.btn-signup {
+background-color: black;
+margin: 15px 0 15px 0;
+color:white;
+padding: 10px 25px;
+opacity: 0.8;
+display: inline-block;
+border-radius: 4px;
+height: 40px;
+width: 100px;
+font-size: 30px;
+
+}
+.btn-signup:hover {
+  opacity: 1;
+}
+.lesson-wrapper {
+  text-align: center;
+  height: 500px;
+  background-color: #f7f7f7;
+  padding-top:100px;
+  padding-bottom: 170px;
+}
+.heading{
+  font-weight: lighter;
+  padding-bottom: 50px;
+}
+.lessons {
+
+}
+.lesson {
+  float:left;
+  width: 33%;
+}
+.lesson-icon {
+  position: relative;
+}
+.lesson-icon p {
+position: absolute;
+top: 75px;
+color: white;
+width: 100%;
+}
+.selected {
+
+}
+.text-message {
+padding: 0 10px;
+display: inline-block;
+opacity: 0.5;
+}
+.message-wrapper {
+  text-align: center;
+  padding: 100px 0 80px 0;
+}
+.message {
+
+}
+.message h2 {
+font-size: 30px;
+}
+.message h3 {
+font-size: 25px;
+opacity: 0.6;
+}
+.btn {
+   padding: 8px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+  background-color: #CF2E92;
+}
+.btn:hover{
+  opacity: 1;
+}
+.Instagram {
+  cursor: pointer;
+  box-shadow: 0 7px #F26939;
+  padding:
+}
+.Instagram:active {
+position: relative;
+shadow: none;
+top: 7px;
+}
+footer {
+  height:60px;
+  width: 700px;
+  padding-bottom: 20px;
+}
+
+footer img {
+width: 125px;
+}
+.tamatetu-black {
+height:50px;
+width: 150px;
+padding-left: 5px;
+}
+footer p {
+font-family: impact;
+}
